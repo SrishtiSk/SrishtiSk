@@ -14,11 +14,11 @@
 
 ![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srishti&hide=contribs&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSk&layout=compact&theme=tokyonight)](https://github.com/SrishtiSk/github-readme-stats)
 
-<div align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SrishtiSk&hide=contribs&show_icons=true&theme=tokyonight&layout=default" width="400" height="300" align="right">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSk&layout=compact&theme=tokyonight" width="400" height="300" align="right">
-</div>
+<!--<div align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=SrishtiSk&hide=contribs&show_icons=true&theme=tokyonight&layout=default&hide_border=true" width="400" height="auto" align="left">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSk&layout=compact&theme=tokyonight&hide_border=true" width="400" height="auto" align="right">
+</div>-->
 
-A Random Dev joke for you!
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+A Random Dev joke for you!: <img src="https://readme-jokes.vercel.app/api" align="center"/>
+  
+<!--![Jokes Card](https://readme-jokes.vercel.app/api)-->
