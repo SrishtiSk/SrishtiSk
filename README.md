@@ -10,7 +10,7 @@
 - 🤔 I’m looking for a mentor to help me become an Angular expert
 - 💬 Ask me about: controversial ancient Indian History or simply about my Pet dog 🐶
 - 📫 How to reach me: manusrishti1998@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I may forget the name but never forget a person.
 </br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SrishtiSk&hide=contribs&show_icons=true&theme=tokyonight)
