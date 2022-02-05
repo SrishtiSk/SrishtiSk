@@ -14,10 +14,10 @@
 
 ![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srishti&hide=contribs&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSk&layout=compact&theme=tokyonight)](https://github.com/SrishtiSk/github-readme-stats)
 
-<!--<div align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SrishtiSk&hide=contribs&show_icons=true&theme=tokyonight&layout=default" width=400 height=300>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSk&layout=compact&theme=tokyonight" width=400 height=300>
-</div>-->
+<div align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=SrishtiSk&hide=contribs&show_icons=true&theme=tokyonight&layout=default" width="400" height="300" align="right">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSk&layout=compact&theme=tokyonight" width="400" height="300" align="right">
+</div>
 
 A Random Dev joke for you!
 
