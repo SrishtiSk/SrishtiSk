@@ -1,7 +1,7 @@
 ###  Namaste 🙏, Srishti here👋
 
 <div align="center">
-<img height="400" width="400" align="right" alt="GIF" align="center" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
+<img height="300" width="300" align="right" alt="GIF" align="center" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 </div>
 
 - 🔭 I’m currently working on improving my skills
@@ -11,11 +11,9 @@
 - 💬 Ask me about: controversial ancient Indian History or simply about my Pet dog 🐶
 - 📫 How to reach me: manusrishti1998@gmail.com
 - ⚡ Fun fact: 
-
+</br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SrishtiSk&hide=contribs&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSk&layout=compact)](https://github.com/SrishtiSk/github-readme-stats)
-
-![](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
 
