@@ -12,8 +12,7 @@
 - ⚡ Fun fact: I may forget the name but never forget a person.
 </br>
 
-![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srishti&hide=contribs&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSk&layout=compact&theme=tokyonight)](https://github.com/SrishtiSk/github-readme-stats)
+![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srishti&hide=contribs&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiSk&layout=compact&theme=tokyonight)](https://github.com/SrishtiSk/github-readme-stats)
 
 <!--<div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=SrishtiSk&hide=contribs&show_icons=true&theme=tokyonight&layout=default" width=400 height=300>
