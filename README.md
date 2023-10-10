@@ -48,8 +48,7 @@
 <code><img height="25" alt="bitbucket" src="https://github.com/SrishtiSk/SrishtiSk/assets/48864294/e253e1fa-88c6-4b60-a6ef-fef6c32768ba"></code>
 <code><img height="25" alt="vscode" src="https://github.com/SrishtiSk/SrishtiSk/assets/48864294/4977fc92-a82e-4a11-b5e9-4209d98fd942"></code>
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=SrishtiSk&count_private=true&show_icons=true" alt="Srishti" />
-
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=SrishtiSk&show_icons=true&theme=transparent" alt="Srishti" />
 
 **Technology currently working on**
 
