@@ -4,8 +4,6 @@
   </div>
 <br />
 <br />
-
-
   <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="40" alt="html5">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="40" alt="css3">
@@ -21,24 +19,49 @@
 <br />
 <br />
 
-<img align="right" alt="jpg" width="250px" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" />
+<img style="margin-top:30%" align="right" alt="jpg" width="250px" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" />
 
-- I am a **Web developer**, currenlty looking for a **Mentor**
+```TypeScript
+type Srishti = {
+  pronouns: "she" | "her";
+  code: string[];
+  tools: string[];
+  lookingFor: ("Mentor" | "Work")[];
+  contact: {
+    mail: string[];
+    linkedIn: string[];
+  };
+  funFact: string;
+};
+
+const Srishti: Srishti = {
+  pronouns: "she",
+  code: ["Javascript", "Typescript", "HTML", "CSS"],
+  tools: ["Angular", "Tailwind", "Node", "git", "bitBuckets", "Material", "Bootstrap"],
+  lookingFor: ["Mentor", "Work"],
+  contact: {
+    mail: ["manusrishti1998@gmail.com"],
+    linkedIn: ["https://www.linkedin.com/in/srishtisk/"]
+  },
+  funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
 - I am **open for work**, and **actively Looking for a Job**
 - I used to dream of being a Animator.But **the reality made me have to learn a technology💻,**
 - and I also came into contact with **programming**.
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
 - If you have any questions, **just ask me**.
-- This is my email: **manusrishti1998@gmail.com**.
 
 </div>
 
 
 <div>
-  
-  **Languages and Tools**  
+  <img align="right" alt="jpg" width="250px" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" />
 
+  **Languages and Tools**  
+  
 <code><img height="25" atl="html" src="https://github.com/SrishtiSk/SrishtiSk/assets/48864294/c3797be0-dc1e-43fa-8b41-f1c2d029a402"></code>
 <code><img height="25" alt="css" src="https://github.com/SrishtiSk/SrishtiSk/assets/48864294/f52a5684-2ddc-45c4-9960-040c1cf6b907"></code>
 <code><img height="25" alt="js"  src="https://github.com/SrishtiSk/SrishtiSk/assets/48864294/1f11bb38-65ec-42f1-9e8f-dc887b30653c"></code>
@@ -48,14 +71,11 @@
 <code><img height="25" alt="bitbucket" src="https://github.com/SrishtiSk/SrishtiSk/assets/48864294/e253e1fa-88c6-4b60-a6ef-fef6c32768ba"></code>
 <code><img height="25" alt="vscode" src="https://github.com/SrishtiSk/SrishtiSk/assets/48864294/4977fc92-a82e-4a11-b5e9-4209d98fd942"></code>
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=SrishtiSk&show_icons=true&theme=transparent" alt="Srishti" />
-
 **Technology currently working on**
 
 <code><img height="30" alt="Angular" src="https://github.com/SrishtiSk/SrishtiSk/assets/48864294/0303aba0-d169-4f3a-8963-82741e6ad62e"></code>
-<code><img height="25" alt="js"  src="https://github.com/SrishtiSk/SrishtiSk/assets/48864294/1f11bb38-65ec-42f1-9e8f-dc887b30653c"></code>
+<code><img height="25" alt="js" src="https://github.com/SrishtiSk/SrishtiSk/assets/48864294/1f11bb38-65ec-42f1-9e8f-dc887b30653c"></code>
 <code><img height="25" alt="typescript" src="https://github.com/SrishtiSk/SrishtiSk/assets/48864294/65685cc7-158e-4733-bf58-4bf0b3ef97ca"></code>
-
 
 **Favorite sites**
 
@@ -64,7 +84,7 @@
 <code><img height="25" alt="google" src="https://github.com/SrishtiSk/SrishtiSk/assets/48864294/77e8f741-db8f-4d49-a977-2d30902528e2"></code>
 <code><img height="25" alt="stackoverflow" src="https://github.com/SrishtiSk/SrishtiSk/assets/48864294/f04698c9-15c6-4338-84e0-e797d5d20b8c"></code>
 <code><img height="25" alt="youtube" src="https://github.com/SrishtiSk/SrishtiSk/assets/48864294/303e5b1d-1a9f-440b-8944-42bbe0bcb9d7"></code>
-
+</div>
 </div>
 
 **If you like this readme file, please give me star! ❤️**
