@@ -47,6 +47,7 @@ const Srishti: Srishti = {
 };
 ```
 Note: I am **open for work**, and **actively Looking for a Job**
+
 I used to dream of being a Animator. But **the reality made me have to learn a technology💻,**
 and I also came into contact with **programming**. Although I was **not interested** in it at the beginning,
 **luckily I slowly fell in love with it. ❤️**
